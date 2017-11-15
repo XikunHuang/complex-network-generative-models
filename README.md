@@ -17,7 +17,7 @@ there are some datasets and codes:
 - Information and code for the cartogram algorithm is here.
 - Information and code for the percolation algorithm is here. 
 
-1. Lev Muchnik'[page](http://www.levmuchnik.net/index.html)
+1. Lev Muchnik's [page](http://www.levmuchnik.net/index.html)
 
 He writes a Complex Networks Package for MatLab.
 
