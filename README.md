@@ -18,6 +18,16 @@ collection of complex network generative models, codes, softwares etc.
         - Information and code for the cartogram algorithm is here.
         - Information and code for the percolation algorithm is here. 
 
+1.  [NetworkX](https://networkx.github.io/documentation/latest/index.html)
+    
+    a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks
+    
+    it can generate many kinds of complex networks, below is some snapnots from NetworkX [graph generators doc](https://networkx.github.io/documentation/latest/reference/generators.html):
+    
+    
+    
+    
+
 1.  [Stanford Network Analysis Project](http://snap.stanford.edu/)
     
     a general purpose network analysis and graph mining library
