@@ -1,5 +1,5 @@
 # complex-network-generative-models
-collection of complex network generative models and codes
+collection of complex network generative models, codes, softwares etc.
 
 1.  Mark Newman's [page](http://www-personal.umich.edu/~mejn/)
 
@@ -18,19 +18,48 @@ collection of complex network generative models and codes
         - Information and code for the cartogram algorithm is here.
         - Information and code for the percolation algorithm is here. 
 
-
+1.  [Stanford Network Analysis Project](http://snap.stanford.edu/)
+    
+    a general purpose network analysis and graph mining library
+    
+1.  [Pajek](http://mrvar.fdv.uni-lj.si/pajek/)
+ 
+    analysis and visualization of large networks. 
+    
+1.  [NetworKit](https://networkit.iti.kit.edu/index.html)
+    
+    aims to provide tools for the analysis of large networks in the size range from thousands to billions of edges
+    
+    it provides graph generators that produce synthetic networks according to various models:
+    
+        - ER model
+        - BA model
+        - Watts-Strogatz model
+        - Forest fire model
+        - Dorogovtsev-Mendes model
+        - Chung-Lu generative model which will produce a random graph with the same expected degree sequence
+        - Clustered random graph
+        - Random simple graph with exactly the given degree sequence
+        - Havel-Hakimi algorithm for generating a graph according to a given degree sequence
+        - Hyperbolic generator
+        - LFR clustered graph generator
+        - Generates a powerlaw degree sequence with the given minimum and maximum degree, the powerlaw exponent gamma
+        - Generates a static graph that resembles an assumed geometric distribution of nodes in a P2P network 
+        - Constructs a regular ring lattice
+        - Generates static R-MAT graphs
+        
+    
 1.  Lev Muchnik's [page](http://www.levmuchnik.net/index.html)
 
-    He writes a Complex Networks Package for MatLab.
-
-    The Complex Networks Package for MatLab comes to provide a comprehansive, efficient, and expandable framework for network research and education in MatLab. It can help characterising empirical networks of dosens of millions of nodes, generating artificial networks, running robusteness experiments, testing the resilience of networks to different attacks, simulating arbitrarily complex contagion in the context of epidemiology, marketing or social media, and generating nice network layouts and even movies representing processes on networks or network evolution. 
+    Complex Networks Package for MatLab.
 
 1.  [quicknet](https://github.com/jcatw/quicknet)
 
-    written in C and implement thoese models:
+    written in C and implements thoese models:
     
         - Price’s model
         - Price’s model with reciprocation
         - Krapivsky’s model
         - Krapivsky’s model with reciprocation
         - Krapivsky’s model with strongly connected component analysis
+
