@@ -22,8 +22,15 @@ collection of complex network generative models, codes, softwares etc.
     
     a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks
     
-    it can generate many kinds of complex networks, below is some snapnots from NetworkX [graph generators doc](https://networkx.github.io/documentation/latest/reference/generators.html):
+    it can generate many kinds of complex networks, below is some snapshots from [graph generators doc](https://networkx.github.io/documentation/latest/reference/generators.html):
     
+    ![classic](https://github.com/XikunHuang/complex-network-generative-models/blob/master/pictures/classic.png)
+    
+    ![random](https://github.com/XikunHuang/complex-network-generative-models/blob/master/pictures/random)
+    
+    ![directed](https://github.com/XikunHuang/complex-network-generative-models/blob/master/pictures/directed)
+    
+    ![degree sequence](https://github.com/XikunHuang/complex-network-generative-models/blob/master/pictures/degreesequence.png)
     
     
     
